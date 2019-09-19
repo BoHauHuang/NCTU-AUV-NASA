@@ -17,7 +17,8 @@
 - [Exercise](https://hackmd.io/TTd_7wFpT62ex3pJomt28Q)
 
 ## Round 5
-
+- [Simple Shell Script I - echo and building mine command](https://hackmd.io/6VaI90CmTq-RLtKhux3nHg?both)
+- [Exercise](https://hackmd.io/wwXuGZptTlajWdN9OWarCQ)
 ## Round 6
 
 ## Round 7
